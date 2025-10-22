@@ -27,7 +27,8 @@
 - `conjugate_gradient_cartesian.py` — оптимизированный МСГ с декартовой топологией.
 
 ### 4.2. Код
-[См. файлы в репозитории](https://github.com/Hxrdbvss/MPI_Laba_6/tree/main/lab6)
+[См. в репозитории](cartesian_topology.py)
+[См. в репозитории](conjugate_gradient_cartesian.py)
 
 ### 4.3. Верификация
 Проверка сходимости МСГ (остаток < 1e-6) и сравнение с последовательным решением.
@@ -112,9 +113,9 @@
 4. Постройте графики: `python plot_results.py`.
 
 ## 11. Код и ресурсы
-- Топология: [cartesian_topology.py](https://github.com/Hxrdbvss/MPI_Laba_6/blob/main/lab6/cartesian_topology.py)
-- МСГ: [conjugate_gradient_cartesian.py](https://github.com/Hxrdbvss/MPI_Laba_6/blob/main/lab6/conjugate_gradient_cartesian.py)
-- Графики: [plot_results.py](https://github.com/Hxrdbvss/MPI_Laba_6/blob/main/lab6/plot_results.py)
+- Топология: [cartesian_topology.py](cartesian_topology.py)
+- МСГ: [conjugate_gradient_cartesian.py](conjugate_gradient_cartesian.py)
+- Графики: [plot_results.py](performancz_plot.py)
 
 ---
 
