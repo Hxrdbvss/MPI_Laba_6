@@ -27,8 +27,8 @@
 - `conjugate_gradient_cartesian.py` — оптимизированный МСГ с декартовой топологией.
 
 ### 4.2. Код
-[См. в репозитории](cartesian_topology.py)
-[См. в репозитории](conjugate_gradient_cartesian.py)
+- Топология: [cartesian_topology.py](cartesian_topology.py)
+- МСГ: [conjugate_gradient_cartesian.py](conjugate_gradient_cartesian.py)
 
 ### 4.3. Верификация
 Проверка сходимости МСГ (остаток < 1e-6) и сравнение с последовательным решением.
